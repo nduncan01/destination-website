@@ -1,0 +1,127 @@
+header{
+	padding:.5rem;
+	background-color: #000000;
+}
+.see{
+	background-color: #887144;
+	font-family: 'Prompt', sans-serif;
+	padding: 3rem 0;
+
+
+}
+.menu a{
+	font-size: 1.5rem;
+	color: #ffffff;
+}
+h1{
+	font-family: 'Prompt', sans-serif;
+	color: #ffffff;
+
+}
+h3{
+	font-family: 'Prompt', sans-serif;
+	line-height: 3.5rem;
+	color: #ffffff;
+	padding: 1.5rem,0;
+}
+p{
+	font-family: 'Prompt', sans-serif;
+	line-height: 1.7;
+	color: #ffffff;
+	padding: 1.5rem,0;
+}
+
+h4{
+	font-family: 'Prompt', sans-serif;
+	line-height: 2.5rem;
+	color: #ffffff;
+	position: center;
+
+
+}
+
+h6{
+	font-family: 'Prompt', sans-serif;
+	
+}
+h2{
+	font-family: 'Satisfy', cursive;
+}
+.subscribe{
+	background-color:#444343; 
+	padding: 3rem 0;
+}
+
+.vertical.tabs{
+	background-color: #887144;;
+	font-family: 'Satisfy', cursive;
+	font-size: 1.5rem;
+	color: #887144;
+
+}
+.hero{
+	background-color:#444343;
+	font-family: 'Satisfy', cursive; 
+	font-size:1.25rem;
+	padding: 3rem 0;
+
+}
+.tabs-title > a{
+	color: #ffffff;
+}
+.tabs {
+    margin: 0;
+    border: 1px solid transparent;
+    background: transparent;
+    list-style-type: none;
+}
+.tabs-panel h1{
+	color: #000000;
+}
+
+.tabs-panel img{
+	margin-bottom: 1rem;
+}
+
+.orbit-caption{
+	font-size: 1.5rem;
+}
+
+.orbit-bullets{
+	font-size: .5rem;
+}
+
+#exampleModal1{
+	padding: 3rem;
+	background-color: #887144;
+}
+
+.logo{
+	font-size: .5rem;
+}
+
+.place{
+	padding: 3rem 0;
+	background-color: #7F7766;
+}
+
+.button{
+	background-color: #887144;
+	color: #444343;
+}
+.reveal{
+	padding:3rem;
+}
+
+footer{
+	background-color: #000000;
+	}
+	.menu{
+		color: #887144;
+		font-family: 'Satisfy', cursive;
+
+	}
+	.fab{
+		font-size: 1.5rem;
+		color: #887144;
+	}
